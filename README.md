@@ -59,6 +59,7 @@ FIN
 
 ## Diagrama de flujo para saber si un número es primo o no:
 
+
 ```mermaid
 graph TD
 
